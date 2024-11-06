@@ -1,0 +1,267 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+/*Resume Container*/
+.resume-container{
+	margin: auto;
+	margin-top: 30px;
+	width: 90%;
+	height: 100%;
+	border: 1px solid #030C4A; 
+	border-radius:10px;
+	box-shadow: 0px 0px 300px 3px lightgrey;
+
+}
+
+
+
+/*Resume Columns*/
+.resume-columns{
+	columns: 2;
+	display: flex;
+}
+
+
+
+/*Resume Image*/
+.profile-img {
+    width: 150px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+
+
+/*Col_01 Start*/
+.col_01{
+	border: 1px solid #D9D9DC;
+	border-radius:10px;
+	width:52%;
+	height: 100%;
+    background-color:#030C4A;
+    padding: 14px 0px;
+
+}
+
+
+
+
+
+.col_01 h1{
+	padding-left: 50px;
+	font-size:30px;
+	color:white;
+	margin-top: 40px;
+
+}
+
+
+.col_01 h2{
+	padding-left: 50px;
+	font-size: 30px;
+	padding-top:60px;
+    color:white;
+
+
+}
+
+
+.col_01 h3{
+	padding-left: 50px;
+	font-size: 30px;
+	padding-top:60px;
+    color:white;
+
+
+}
+
+
+.col_01 p{
+	padding-left:50px;
+
+
+}
+
+
+
+i{
+	color:white;
+}
+
+
+input{
+  border: 1px solid #53545A;
+  background-color: inherit;
+  border-radius: 10px;
+  padding: 7px;
+  color: white;
+  font-size: 20px;
+
+}
+
+
+
+textarea{
+  border: 1px solid #53545A;
+  background-color: inherit;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  padding: 7px;
+
+}
+
+
+
+
+
+
+
+/*Col_01 End*/
+
+
+
+
+/*Col_02 Start*/
+
+.col_02 {
+	padding-top: 30px;
+	padding-left: 30px;
+
+
+}
+
+
+.resume_heading{
+	font-size: 30px;
+	color: #2F3866;
+}
+
+
+.col_02 h1{
+	font-size:40px;
+	color: #2F3866;
+}
+.col_02 h2{
+	padding-top:200px;
+	font-size:30px;
+	color: #2F3866;
+
+}
+
+
+
+
+
+
+.skills-i{
+	padding-left: 50px;
+
+}
+
+.skills-i input{
+   margin-bottom: 4px;
+   border: 1px solid #E1E1E5;
+}
+
+
+.skills-i i{
+	color:#030E54;
+}
+
+.skills-i input {
+	color: #030C4A;
+}
+
+
+
+
+.col_02 h4{
+	font: bold;
+	color: #2F3866;
+	font-size: 24px;
+}
+
+
+.radio-btn-h2{
+   margin-top: 40px;
+}
+
+.radio-btn-input{
+	color: #2F3866;
+	font-size: 20px;
+	margin-top: 30px;
+}
+
+
+
+
+
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color:#030C4A;
+    color: white;
+    border:inherit;
+    border-radius: 10px;
+    margin-left:50px;
+}
+
+button:hover {
+    background-color: #7E7F81;
+}
+
+/*Col_02 End*/
+
+
+
+/*Resume Generator Start*/
+
+
+#Curriculum-Vitae{
+    max-width: 87%;
+    margin: auto;
+    border: 2px solid #030C4A ; 
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+    background-color:#030C4A ;
+}
+
+
+
+#Curriculum-Vitae h2 {
+    color:white;
+}
+
+
+#Username-based-Links{
+   display: none;
+   text-align: center;
+   color: #030C4A;
+   margin:10px;
+}
+
+
+
+
+
+
+h2{
+	font-size: 60px;
+}
+
+
+h3{
+	font-size: 30px;
+}
+
+p{
+	font-size: 24px;
+}
+
+/*Resume Generator End*/
